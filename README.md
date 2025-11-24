@@ -12,6 +12,7 @@ Below is the screenshot of the dashboard:
 
 
 📌 Features
+
 🌡️ Current Weather Overview
 
 •	Temperature & Conditions (Mist, Clear, etc.)
@@ -31,41 +32,54 @@ Below is the screenshot of the dashboard:
 📈 7-Day Weather Forecast
 
 •	Daily high/low temperatures
+
 •	Weather icons
+
 •	Trend line visualization
+
 •	Easy temperature comparison across the week
+
 🌧️ Weekly Rain Probability
 
+
 •	Rain percentage for each upcoming day
+
 •	Clean bar-style probability visual
 
 🌅 Sunrise & Sunset
 
 •	Live sunrise time
+
 •	Live sunset time
 
 🌫️ Air Quality Index (AQI)
 
 •	Live pollutant readings including:
+
 1.	PM10
-2.	PM2.5
-3.	SO₂
-4.	NO₂
-5.	CO
-6.	O₃
-7.	AQI category indicator (e.g., Moderate, Unhealthy, Good)
+3.	PM2.5
+4.	SO₂
+5.	NO₂
+6.	CO
+7.	O₃
+8.	AQI category indicator (e.g., Moderate, Unhealthy, Good)
 
 🛠️ Built With
 
 •	Power BI Desktop
+
 •	Power BI Service (for publishing)
+
 •	Power Query – for API connection & JSON parsing
+
 •	Weather API – real-time data feed
+
 •	DAX – custom calculations & measures
 
 📎 Files Included
 
 •	Weather_Dashboard.pbix — Main Power BI dashboard
+
 •	README.md — Project documentation
 
 🚀 How to Use
