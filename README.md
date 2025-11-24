@@ -15,11 +15,17 @@ Below is the screenshot of the dashboard:
 🌡️ Current Weather Overview
 
 •	Temperature & Conditions (Mist, Clear, etc.)
+
 •	Humidity
+
 •	Wind Speed
+
 •	Visibility
+
 •	UV Index
+
 •	Pressure
+
 •	Precipitation
 
 📈 7-Day Weather Forecast
